@@ -1,7 +1,7 @@
 # Design of 5 Stage Pipelined MIPS32 RISC Processor  
 This repository contains the details and the code for the MIPS32 ISA based RISC Processor, which is implemented in 5 stage pipelined configuration.  
 ## Table of contents  
-▫️ [MIPS32](https://github.com/arpit306/5-Stage-Pipelined-MIPS32-RISC-Processor-Design-on-Verilog#%EF%B8%8F-mips32)  
+▫️ [MIPS32](https://github.com/KishorKumar0/RISC-Processor/blob/main/README.md#%EF%B8%8F-mips32)  
 ▫️ [Addressing Modes](https://github.com/arpit306/5-Stage-Pipelined-MIPS32-RISC-Processor-Design-on-Verilog#%EF%B8%8F-addressing-modes)  
 ▫️ [Instructions considered](https://github.com/arpit306/5-Stage-Pipelined-MIPS32-RISC-Processor-Design-on-Verilog#%EF%B8%8F-instructions-considered)  
 ▫️ [Instruction Encoding](https://github.com/arpit306/5-Stage-Pipelined-MIPS32-RISC-Processor-Design-on-Verilog#%EF%B8%8F-instruction-encoding)  
