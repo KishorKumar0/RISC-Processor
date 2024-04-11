@@ -312,7 +312,7 @@ Testbench Code :
 endmodule
   ```  
 Waveform :  
-![waveform](.waveform_test1.png)  
+![waveform](./waveform_test1.png)  
 
 Console output :  
 ``` R0 -  0
