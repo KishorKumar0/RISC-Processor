@@ -11,7 +11,7 @@ This repository contains the details and the code for the MIPS32 ISA based RISC 
 ▫️ [Verilog Design Code](pipe_MIPS.v)  
 ▫️ [Example Program Testbench Code](https://github.com/KishorKumar0/RISC-Processor/blob/64febe78fafcb7bd0dd32954f59351d6691bdb05/tets1.v)   
 ▫️ [Known issues and problems](https://github.com/KishorKumar0/RISC-Processor#%EF%B8%8F-known-problems-and-issues)  
-▫️ [References]([https://github.com/KishorKumar0/RISC-Processor#%EF%B8%8F-references)  
+▫️ [References](https://github.com/KishorKumar0/RISC-Processor#%EF%B8%8F-references)  
 ## ▫️ MIPS32  
 - 32 x 32 bit GPRs [R0 to R31]  
 - R0 hardwired to logic0  
