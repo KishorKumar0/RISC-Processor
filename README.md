@@ -8,7 +8,7 @@ This repository contains the details and the code for the MIPS32 ISA based RISC 
 ▫️ [Stages of Execution](https://github.com/KishorKumar0/RISC-Processor#%EF%B8%8F-stages-of-execution)  
 ▫️ [Non Pipelined DataPath](https://github.com/KishorKumar0/RISC-Processor#%EF%B8%8F-non-pipelined-datapath)  
 ▫️ [Pipelined DataPath](https://github.com/KishorKumar0/RISC-Processor#%EF%B8%8F-pipelined-datapath)  
-▫️ [Verilog Design Code](https://github.com/KishorKumar0/RISC-Processor#%EF%B8%8F/blob/main/mips32_design.v)  
+▫️ [Verilog Design Code](pipe_MIPS.v)  
 ▫️ [Example Program Testbench Code](https://github.com/KishorKumar0/RISC-Processor#%EF%B8%8F/blob/main/testbench.v)   
 ▫️ [Known issues and problems](https://github.com/KishorKumar0/RISC-Processor#%EF%B8%8F-known-problems-and-issues)  
 ▫️ [References]([https://github.com/KishorKumar0/RISC-Processor#%EF%B8%8F-references)  
